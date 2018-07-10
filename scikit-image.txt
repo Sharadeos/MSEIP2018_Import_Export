@@ -7,6 +7,7 @@ sudo pip3 install numpy -i https://www.piwheels.org/simple
 sudo pip3 install matplotlib -i https://www.piwheels.org/simple
 sudo pip3 install scikit-learn -i https://www.piwheels.org/simple
 sudo pip3 install numpy --upgrade
+sudo pip install numpy --upgrade
 sudo pip install --upgrade setuptools
 sudo pip install ez_setup
 sudo apt-get install build-essential cmake pkg-config
